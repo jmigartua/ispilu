@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="100 160 824 700">
+  <!-- Ispilu's icon in one colour, for the landing kit's faded emblem (a mask: only the shape counts).
+       From app/design/icon.svg: the mirror, the moment and its image reversed, the powder pattern and its image. -->
+  <g fill="none" stroke="#000" stroke-linejoin="round" stroke-linecap="round">
+    <rect x="496" y="170" width="32" height="680" fill="#000" stroke="none" rx="6"/>
+    <path stroke-width="22" d="M140 760 L220 760 L250 640 L280 760 L330 760 L350 700 L370 760 L450 760 L470 560 L490 760"/>
+    <path stroke-width="22" opacity=".55" d="M884 760 L804 760 L774 640 L744 760 L694 760 L674 700 L654 760 L574 760 L554 560 L534 760"/>
+    <path stroke-width="54" d="M330 520 L330 250 M232 348 L330 250 L428 348"/>
+    <path stroke-width="54" opacity=".55" d="M694 250 L694 520 M596 422 L694 520 L792 422"/>
+  </g>
+  <circle cx="330" cy="520" r="38"/>
+  <circle cx="694" cy="250" r="38" opacity=".55"/>
+</svg>
